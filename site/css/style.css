@@ -1,0 +1,51 @@
+@font-face {
+  font-family: VT323;
+  src: url(../font/VT323-Regular.ttf);
+}
+
+
+
+a{
+  text-decoration: none;
+  color: black;
+  
+}
+body{
+  background-color: #282828;
+width: 100%;
+
+  
+}
+h1{
+color: #9BFFB4;
+font-family: vt323;
+text-align: center;
+font-size: 70px;
+padding-top: 450px;
+
+}
+h3{
+color: #FF9779;
+font-family: vt323;
+text-align: center;
+font-size: 30px;
+
+}
+h2{
+color: #FF9779;
+font-family: vt323;
+text-align: center;
+font-size: 30px;
+padding-top: 320px;
+
+}
+
+
+.section2{
+padding-top: 500px;
+
+}
+
+.po{
+  background-image: url("./img/wave.svg");
+}
